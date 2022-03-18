@@ -21,6 +21,8 @@
 mono_crash.*
 
 # Build results
+.sln
+.csproj
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
